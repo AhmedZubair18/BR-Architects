@@ -1,0 +1,94 @@
+.paragraph{
+    position:relative;
+    bottom: 450px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+.paragraph-1{
+    background-color: black;
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.images-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.abc:hover{
+    background-color: gray;
+}
+.abc-1:hover{
+    background-color: gray;
+}
+.abc-2:hover{
+    background-color: gray;
+}
+.abc-3:hover{
+    background-color: gray;
+}
+.Contact-1{
+    background-color:lightgray;
+    width: 220px;
+    border: 2px solid white;
+}
+.Contact-1:hover{
+    background-color: gray;
+}
+.Contact-2{
+    background-color:lightgray;
+    width: 220px;
+    border: 2px solid white;
+}
+.Contact-2:hover{
+    background-color: gray;
+}
+.Contact-3{
+    background-color:lightgray;
+    width: 220px;
+    border: 2px solid white;
+}
+.Contact-3:hover{
+    background-color: gray;
+}
+.Contact-4{
+    background-color:lightgray;
+    width: 220px;
+    border: 2px solid white;
+}
+.Contact-4:hover{
+    background-color: gray;
+}
+.contact{
+    display: flex;
+    justify-content:space-around;
+}
+.name{
+    width: 1100px;
+    margin: 10px;
+}
+.email{
+    width: 1100px;
+    margin: 10px;
+}
+.subject{
+    width: 1100px;
+    margin: 10px;
+}
+.comment{
+    width: 1100px;
+    margin: 10px;
+}
+.message{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    margin: 8px;
+}
+.message:hover{
+    background-color: lightgray;
+    color: black;
+}
